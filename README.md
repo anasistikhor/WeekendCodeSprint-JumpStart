@@ -51,6 +51,15 @@
 - [ ] [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning?irclickid=XBKSrpQj:xyPRGURloXPX1X7UkHwo:xfKUtgT00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#syllabus)
 - [ ] [Exploratory Data Analysis with Seaborn](https://www.coursera.org/projects/exploratory-data-analysis-seaborn?irclickid=XBKSrpQj:xyPRGURloXPX1X7UkHwo:yPKUtgT00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c)
 ##### ML
+- [ ] [Machine Learning Course](https://mlcourse.ai/book/topic01/topic01_intro.html)
+- [ ] [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?irclickid=XBKSrpQj:xyPRGURloXPX1X7UkHwo7XnKUtgT00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#courses)
+- [ ] [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [ ] [Repository of notes, code, and notebooks in Python for the book Pattern Recognition and Machine Learning by Christopher Bishop](https://github.com/gerdm/prml)
 ##### DL
+- [ ] [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?irclickid=XBKSrpQj:xyPRGURloXPX1X7UkHwo9T2KUtgT00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#courses)
+- [ ] [DL Book](https://www.deeplearningbook.org/)
+- [ ] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+- [ ] [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 ##### MLOps
+- [ ] [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?irclickid=XBKSrpQj:xyPRGURloXPX1X7UkHwo-3-KUtgT00&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=4863057&utm_content=b2c#courses)
 
