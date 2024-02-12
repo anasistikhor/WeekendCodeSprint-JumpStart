@@ -5,6 +5,8 @@
 
 **Tool Installation:** Set up Anaconda for managing packages, dependencies, and environments for data science and machine learning projects. This ensures a scalable and flexible development platform.
 
+###### [Back to WeekendCodeSprint Repository](https://github.com/yourusername/WeekendCodeSprint)
+
 # WeekendCodeSprint-JumpStart
 - [x] 1. Create a folder called WCS-Jumpstart 
 - [x] 2. Setup local and cloud environment (VSC-GH)
