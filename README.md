@@ -8,12 +8,13 @@
 ###### [Back to WeekendCodeSprint Repository](https://github.com/anasistikhor/WeekendCodeSprint)
 
 # WeekendCodeSprint-JumpStart
-- [x] 1. Create a folder called WCS-Jumpstart 
-- [x] 2. Setup local and cloud environment (VSC-GH)
-- [x] 3. Setup Anaconda
-
-
-
+- [x] Create a folder called WCS-Jumpstart 
+- [x] Setup local and cloud environment (VSC-GH)
+- [x] Setup Anaconda
+- [ ] [Roadmap](https://github.com/anasistikhor/WeekendCodeSprint-JumpStart)
+- [ ] [IBM Data Science Professional](https://www.coursera.org/professional-certificates/ibm-data-science?)
+- [ ] [Certified Data Scientist](https://www.opengroup.org/certifications/associate-data-scientist)
+ 
 ### Roadmap
 ##### Mathematics
 - [ ] [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning?action=enroll&irclickid=XBKSrpQj%3AxyPRGURloXPX1X7UkHwpQQlbUhJSc0&irgwc=1&utm_campaign=4863057&utm_content=b2c&utm_medium=partners&utm_source=impact)
